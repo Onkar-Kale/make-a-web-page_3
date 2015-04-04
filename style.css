@@ -1,0 +1,50 @@
+
+h1 {
+    text-align: center;
+    color: #294860;
+}
+
+body {
+    font-family: cursive;
+}
+
+
+.chapter {
+    background-color: #8BBBE0;
+    border-radius: 25px;
+    color: rgb(157, 41, 41);
+    padding: 10px;
+}
+
+h2 {
+    margin: 10px;
+}
+.pointExplain {
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+    color: #2216D5;
+}
+.abstract {
+    background-color: #DFEAF1;
+    padding: 4px;
+    margin: 10px;
+    border-radius: 4px;
+    color: black;
+ /*   display: flex;*/
+}
+.image{
+    max-width: 60px
+}
+.abstract-title {
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+    color: #246F76;
+}
+
+.abstract-description {
+    font-weight: lighter;
+    margin: 6px;
+}
+
